@@ -65,8 +65,8 @@
     </tr>
 </table>
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=NFTknight.NFTknight" />
-<img align="right" src="https://img.shields.io/github/followers/NFTknight?label=Follow&style=social" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=terter21002.terter21002" />
+<img align="right" src="https://img.shields.io/github/followers/terter21002?label=Follow&style=social" />
 <h1 align="center"></h1>
 
 ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
@@ -86,10 +86,10 @@
 
   <br />
   
-### 2D / 3D Three.js & application
+### Three.js & 2D & 3D application
   <br />
 
-### SaaS/CRM/CMS/E-Commerce Web & CMS application
+### SaaS/CRM/Shopify/E-Commerce Web & CMS application
 
   <br />
 
