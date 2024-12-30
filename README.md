@@ -85,6 +85,10 @@
 ### DApps & Online Betting Website
 
   <br />
+
+### Generative AI & Computer Vision
+
+  <br />
   
 ### Three.js & 2D & 3D application
   <br />
