@@ -16,6 +16,7 @@
 
 - ⚡ Quotes: _What you do today can improve all of your tomorrows._
 </p>
+
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=terter21002.terter21002" />
 <img align="right" src="https://img.shields.io/github/followers/terter21002?label=Follow&style=social" />
 
