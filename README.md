@@ -1,5 +1,10 @@
 <h1 align="center">👋 Hi, I’m Agile, Passionate & Creative Programmer</h1>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+</p>
+
 <h3 align="center">🚀 Full Stack | AI & Web3 | Trading Bots | Autonomous Agents</h3>
 
 <p align="center">
