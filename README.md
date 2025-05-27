@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hi, I’m Agile, Passionate & Creative Programmer</h1>
+<h1 align="center" style="background-color:#f0f0f0;padding:20px;border-radius:10px;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi,+My+name+is+Oleh+Chen!+👋;" />
+</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
